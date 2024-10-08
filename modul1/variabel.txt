@@ -1,0 +1,3 @@
+Variabel pada js
+variabel seperti kotak yang menyimpan nilai dan kita bisa mengganti isi kotak terssebut kapan saja
+ariabel di js ada tiga yaitu var, let, const
